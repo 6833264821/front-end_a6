@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Rating from "@mui/material/Rating";
-import InteractiveCard from "./InteractiveCard";
+import InteractiveCard from './InteractiveCard';
 
 type CardProps = {
   venueName: string;
